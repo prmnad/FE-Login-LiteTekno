@@ -1,0 +1,86 @@
+/* navbar */
+.navbar {
+    justify-content: center;
+    background: #fff;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.navless-container {
+    margin-top: 70px;
+}
+
+/* content */
+.col-lg-6 p {
+    font-size: 16px;
+    color: #888;
+}
+
+.col-lg-6 a {
+    color: #1068bf;
+    font-weight: 600;
+}
+
+.login-box {
+    border-radius: 4px;
+}
+
+.login-box {
+    box-shadow: 0 0 0 1px #dfdfdf;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    padding: 15px;
+}
+
+.login-box label {
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.login-box input {
+    border-radius: 4px;
+    padding: 6px 10px;
+    height: 34px;
+    width: 100%;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.login-box a {
+    font-size: 13px;
+}
+
+.custom-checkbox label {
+    padding-top: 4px;
+}
+
+.col-lg-5 p {
+    font-size: 13px;
+}
+
+.login-box button {
+    border-radius: 4px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    padding: 6px 10px;
+    background-color: #fff;
+    border-color: #dfdfdf;
+    color: #2e2e2e;
+    white-space: nowrap;
+    width: 48%;
+}
+
+footer {
+    height: 40px;
+    background: #fff;
+    position: absolute;
+}
+
+.footer-links a {
+    margin-bottom: 20px;
+    margin-right: 15px;
+}
+
+footer a {
+    padding-left: 15px;
+}
